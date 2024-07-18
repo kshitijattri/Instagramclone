@@ -1,2 +1,2 @@
 # Instagramclone
-Instagram login page clone 
+Instagram login page clone using HTML and CSS
